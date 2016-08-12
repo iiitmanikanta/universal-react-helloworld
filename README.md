@@ -4,7 +4,6 @@ Simplest possible starting point for using universal/isomorphic/shared React.js 
 Node.js + Express.js
 
 # Installation
-
 Use Git to clone this app, then:
 
 ```
